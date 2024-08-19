@@ -1,0 +1,11 @@
+# Blokada reklam i śledzenia przez Google
+
+0.0.0.0 adservice.google.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 pagead.l.doubleclick.net
+0.0.0.0 googleadservices.com
+0.0.0.0 google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 tagmanager.google.com
